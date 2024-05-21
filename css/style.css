@@ -1,0 +1,333 @@
+header {
+    padding-top: 57px;
+    margin-bottom: 57px;
+}
+.container {
+    max-width: 1146px;
+    width: 90%;
+    margin: 0 auto;
+}
+.wrapper {
+    max-width: 375px;
+    width: 95%;
+}
+.wrapper h4,
+.wrapper3 h4 {
+    color: #6c75d6;
+    font-family: Roboto;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.wrapper h2,
+.wrapper3 h2 {
+    color: #000;
+    font-family: Roboto;
+    font-size: 49px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+#description {
+    max-width: 756px;
+    width: 100%;
+    height: 298px;
+    padding: 23px 21px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    border: 2px solid rgba(212, 211, 211, 0.3);
+    background-color: #f8f8f8;
+    color: #99999a;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    
+}
+#description::-webkit-input-placeholder {
+    position: absolute;
+    top: 23px;
+}
+#description::-moz-placeholder {
+    position: absolute;
+    top: 23px;
+}
+#description:-ms-input-placeholder {
+    position: absolute;
+    top: 23px;
+}
+#description::-ms-input-placeholder {
+    position: absolute;
+    top: 23px;
+}
+#description::placeholder {
+    position: absolute;
+    top: 23px;
+}
+form {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    gap: 20px;
+}
+.form1 {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    max-width: 756px;
+    width: 100%;
+}
+.form2 {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    gap: 20px;
+    max-width: 370px;
+    width: 100%;
+}
+.form2 input {
+    padding: 20px;
+    font-family: "Roboto";
+    border: 2px solid rgba(212, 211, 211, 0.3);
+    background-color: #f8f8f8;
+}
+#submit {
+    color: #fbfbff;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    background: #5968f4;
+}
+/* s-1 end */
+.s-2 {
+    margin-top: 51px;
+}
+.s-2container {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: distribute;
+        justify-content: space-around;
+}
+.card1,
+.card2,
+.card3 {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+}
+
+.icondiv {
+    background-color: #5968f4;
+    border-radius: 40px;
+    width: 68px;
+    height: 68px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    margin-bottom: 16px;
+}
+.fa-envelope {
+    color: #344188;
+    font-size: 40px;
+}
+.fa-phone {
+    color: #344188;
+    font-size: 35px;
+}
+.fa-location-dot {
+    color: #344188;
+    font-size: 35px;
+}
+.wrapper2 {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    gap: 8px;
+}
+.wrapper2 h4 {
+    color: #4e4d54;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.wrapper2 a {
+    color: #99999a;
+    font-family: Roboto;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.s-3 {
+    margin-top: 74px;
+}
+.wrapper3 {
+    max-width: 560px;
+    width: 95%;
+    margin-bottom: 53px;
+}
+.container2 {
+    max-width: 1320px;
+    width: 90%;
+    margin: 0 auto;
+}
+.image {
+    max-width: 373px;
+    width: 90%;
+    height: 373px;
+}
+
+.photoswrapper {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    margin-bottom: 40px;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    gap: 70px;
+}
+/* footer start */
+footer {
+    padding: 63px 0 107px;
+    background-color: #000;
+}
+.footercontainer {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+}
+.hotelsdiv {
+    max-width: 295px;
+    width: 90%;
+}
+.hotelsdiv h3 {
+    color: #fff;
+    font-family: Roboto;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.hotelsdiv p {
+    color: #99999a;
+    font-family: Roboto;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 23px;
+    margin-bottom: 23px;
+}
+.imgdiv {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    gap: 7px;
+}
+.logo1 {
+    vertical-align: middle;
+    width: 48px;
+}
+.logo2 {
+    height: 42px;
+    vertical-align: middle;
+}
+.logo3 {
+    width: 48px;
+    vertical-align: middle;
+}
+.footerlinks {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    max-width: 650px;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    width: 100%;
+}
+.footerlinks h4 {
+    color: #fff;
+    font-family: Roboto;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 32px;
+    
+}
+ol {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    gap: 10px;
+}
+li a {
+    color: #5863e3;
+    font-family: Roboto;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.contactinfo a {
+    color: #fff;
+    font-family: Roboto;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.icon {
+    color: #344188;
+    font-size: 20px;
+    margin-right: 14px;
+}

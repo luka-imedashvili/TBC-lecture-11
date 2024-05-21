@@ -1,0 +1,33 @@
+@media (max-width: 1150px) {
+    .footercontainer {
+        flex-direction: column;
+        align-items: center;
+    }
+    .hotelsdiv {
+        margin-bottom: 50px;
+    }
+    .footerlinks {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 50px;
+    }
+}
+@media (max-width: 870px) {
+    form {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+@media (max-width: 725px) {
+   .s-2container {
+        flex-wrap: wrap;
+        gap: 50px;
+        justify-content: center;
+   }
+}
+@media (max-width: 500px) {
+    .wrapper h2,
+.wrapper3 h2 {
+    font-size: 35px;
+}
+}
